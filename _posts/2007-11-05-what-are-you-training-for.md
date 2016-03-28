@@ -11,7 +11,7 @@ categories:
   - inspiration
   - management
 ---
-Monk at work has [another great post](http://monkatwork.com/2007/11/05/productivity-is-a-full-body-exercise/ "Train for life") about the CrossFit motto; “General Physical Preparedness”. It&#8217;s a style of physical training that Adam relates to work, and continual improvement. Something he terms &#8220;General Work Preparedness&#8221; with admonishment to &#8220;Generalize, not specialize&#8221; because &#8220;specialization has its price&#8221;.
+Monk at work has [another great post](http://monkatwork.com/2007/11/05/productivity-is-a-full-body-exercise/ "Train for life") about the CrossFit motto; General Physical Preparedness. It&#8217;s a style of physical training that Adam relates to work, and continual improvement. Something he terms &#8220;General Work Preparedness&#8221; with admonishment to &#8220;Generalize, not specialize&#8221; because &#8220;specialization has its price&#8221;.
   
 I think it&#8217;s similar to a discussion I had with a college of mine regarding the difference between [&#8220;specialists&#8221; and &#8220;generalists&#8221;](http://creativegeneralist.blogspot.com/2007/08/specialists-and-generalists-in-3d.html "Specialists vs Generalists"). Even though I&#8217;m not a fan of the terms, when I saw the graphic it was actually inspiring to me.
 

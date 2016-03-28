@@ -17,9 +17,9 @@ Friends as a critical part of who I am, but I managed to become a pretty indepen
 
 **So why have I been hesitant to start my own business?**
 
-> &#8220;If you think you’re afraid your business will fail, you’re not. You might be afraid of poverty, of humiliation, of never finding happiness, but you’re not afraid your business will fail. Figure out what the problem really is and stop pretending the Big White Elephant of Fear hasn’t taken up residence in the corner of your home office.&#8221;
+> &#8220;If you think youre afraid your business will fail, youre not. You might be afraid of poverty, of humiliation, of never finding happiness, but youre not afraid your business will fail. Figure out what the problem really is and stop pretending the Big White Elephant of Fear hasnt taken up residence in the corner of your home office.&#8221;
 
-It&#8217;s a great insight written quite some time ago [Naomi](http://ittybiz.com/author/admin/ "Naomi Dunford") over at [ittybiz](ittybiz.com "IttyBiz.com") in her article [Entrepreneurship: What To Do When You’re Scared Sh*tless](http://ittybiz.com/entrepreneurship-what-to-do-when-youre-scared-shtless/).
+It&#8217;s a great insight written quite some time ago [Naomi](http://ittybiz.com/author/admin/ "Naomi Dunford") over at [ittybiz](ittybiz.com "IttyBiz.com") in her article [Entrepreneurship: What To Do When Youre Scared Sh*tless](http://ittybiz.com/entrepreneurship-what-to-do-when-youre-scared-shtless/).
 
 I&#8217;ve had this link laying around in my head for a while now, not because I was scared to post it but because **I wasn&#8217;t sure what &#8220;action&#8221; I can take from the lesson.**
 

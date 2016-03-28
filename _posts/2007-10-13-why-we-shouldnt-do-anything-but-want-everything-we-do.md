@@ -11,7 +11,7 @@ categories:
 ---
 I&#8217;ve been reading [Monk at Work](http://monkatwork.com/ "Monk at Work") and have really enjoyed the honest, unfettered professionalism it brings. Adam merges the sometimes harsh world of management and motivation with what I consider to be a southern &#8220;cut to the chase&#8221; attitude, all while maintaining a zen-like absence of frustration which I envy him for having.
 
-In _[Are You Feeding Your Inner Rebel Candy, Or Kryptonite](http://monkatwork.com/2007/10/08/rebel/ "Want what's right")_ **Adam&#8217;s insight hit close to home**. I have a &#8220;never ending todo list&#8221;;  in my mind if you can&#8217;t think of something cool to do, even though you may not have time to do it, then you&#8217;re not trying.
+In _[Are You Feeding Your Inner Rebel Candy, Or Kryptonite](http://monkatwork.com/2007/10/08/rebel/ "Want what's right")_ **Adam&#8217;s insight hit close to home**. I have a &#8220;never ending todo list&#8221;; in my mind if you can&#8217;t think of something cool to do, even though you may not have time to do it, then you&#8217;re not trying.
 
 However, **my list has many things that I feel I &#8220;really should do&#8221; which keep getting put off**. I [recently discovered](http://www.kdedevelopers.org/node/2987 "Surprise Features") the concept of an [Eisenhower Matrix](http://ezinearticles.com/?Time-Management---Some-Philosophical-and-Practical-Considerations&id=102414 "Eisenhower Matrix") and although I don&#8217;t quite have the same power to delegate **it&#8217;s been a powerful tool for me to better prioritize my list.**
 

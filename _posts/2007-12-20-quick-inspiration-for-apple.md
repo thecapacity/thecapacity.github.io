@@ -22,7 +22,7 @@ This actually happens in a few other web applications as well, but Google maps i
 
 **I recently stumbled across &#8220;[Petitinvention](http://petitinvention.wordpress.com "Petitinvention")&#8221; and have been jealous of Mac Funamizu&#8217;s ability to articulate ideas in such a visually simplistic and artful manner.**
 
-Subconsciously I must have been influenced by his resent &#8220;[iPhone & iPod Touch’s instant access button (you can allocate functions)&#8221;](http://petitinvention.wordpress.com/2007/12/20/iphone-ipod-touchs-instant-access-button-you-can-allocate-functions/) concept and it peculated through my brain to last night.
+Subconsciously I must have been influenced by his resent &#8220;[iPhone & iPod Touchs instant access button (you can allocatefunctions)&#8221;](http://petitinvention.wordpress.com/2007/12/20/iphone-ipod-touchs-instant-access-button-you-can-allocate-functions/) concept and it peculated through my brain to last night.
 
 My belief is that the default behavior of the iPhone should stay just as it is. However a useful addition would be that **if you hold down the &#8220;home&#8221; button while making a mouse &#8220;flick&#8221; the iPhone should pass that motion down to the web application instead of interpreting it for itself.**
 
