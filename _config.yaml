@@ -1,10 +1,6 @@
 kramdown:
   input: GFM
 
-collections:
-  posts:
-    output: true
-
 defaults:
   -
     scope:
