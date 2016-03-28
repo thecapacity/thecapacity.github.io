@@ -5,13 +5,12 @@ title: thecapacity
 
 # Welcome
 
-## Information
-* blog.thecapacity.org
+## Information - blog.thecapacity.org
 
 <ul>
-  {% for post in paginator.posts %}
+  {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
     </li>
   {% endfor %}
 </ul>
