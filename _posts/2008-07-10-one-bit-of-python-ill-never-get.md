@@ -11,7 +11,6 @@ categories:
   - frustration
   - python
 ---
-&#8220;
 
 ```python
 >>> "hello"[2:4]
@@ -55,10 +54,10 @@ So;
 > "o"
 ```
 
-Get it? The 0th character is &#8216;h&#8217;, 2nd is &#8216;l&#8217; (the 1st one) and the 4th (or -1 i.e. 1 from the end) character is &#8216;o&#8217;. The &#8216;:&#8217; in between the &#8220;[]&#8221; is used to separate out the various indexing parameters.
+Get it? The 0th character is "h", 2nd is "l" (the 1st one) and the 4th (or -1 i.e. 1 from the end) character is "o". The ":" in between the "[]" is used to separate out the various indexing parameters.
 
 Holistically, it's actually referred to as &#8220;[slicing](http://www.diveintopython.org/native_data_types/lists.html)&#8220;. So [1:2] says slice using indexes 1 and 2 (sorta&#8230; wait for the punchline below), and you can also say [0:20:2] which will slice in &#8216;steps&#8217; of 2!!
 
-It's a handy technique, but let&#8217;s return to our example for the rub&#8230; Notice how &#8220;hello&#8221;[2:4] gave us &#8216;ll&#8217; and not characters 2,3 & 4!!! **That&#8217;s because the slice <span style="text-decoration: underline;">includes</span> the 1st index but <span style="text-decoration: underline;">excludes</span> the second!**
+It's a handy technique, but let&#8217;s return to our example for the rub&#8230; Notice how &#8220;hello&#8221;[2:4] gave us "ll" and not characters 2,3 & 4!!! **That&#8217;s because the slice <span style="text-decoration: underline;">includes</span> the 1st index but <span style="text-decoration: underline;">excludes</span> the second!**
 
 Man I hate that&#8230;
