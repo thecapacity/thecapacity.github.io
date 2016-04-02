@@ -6,7 +6,7 @@ repository: thecapacity/thecapacity.github.io
 url: "http://thecapacity.org"
 timezone: America/New_York
 encoding: UTF-8
-branch: master
+branch: "master"
 
 # Social metadata (JSON-LD)
 social:
