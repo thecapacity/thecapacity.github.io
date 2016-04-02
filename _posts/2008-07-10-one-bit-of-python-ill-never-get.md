@@ -1,6 +1,6 @@
 ---
 id: 94
-title: 'One bit of Python I&#8217;ll never get&#8230;'
+title: "One bit of Python I'll never get"
 date: 2008-07-10T16:44:58+00:00
 author: jay
 layout: post
