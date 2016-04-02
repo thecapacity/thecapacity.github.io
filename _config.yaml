@@ -1,3 +1,21 @@
+name: Jay Huie
+title: thecapacity
+description: "Learn by Doing"
+author: wjhuie
+repository: thecapacity/thecapacity.github.io
+url: "http://thecapacity.org"
+
+# Social metadata (JSON-LD)
+social:
+  name: Jay Huie
+  links:
+    - https://twitter.com/wjhuie
+    - https://www.linkedin.com/in/wjhuie
+    - https://github.com/thecapacity
+
+twitter:
+    username: "@wjhuie"
+
 timezone: America/New_York
 encoding: UTF-8
 branch: master
@@ -11,4 +29,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "default"
+      layout: "posts"
