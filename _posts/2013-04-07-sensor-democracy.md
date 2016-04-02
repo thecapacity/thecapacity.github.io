@@ -25,7 +25,7 @@ There are two quick and easy ways to get access to this data, the first using ou
 
 You should see some data such as:
 
-<pre>{"HeartrateInstant":0,"LapRunningTimeString":"01:36","CadenceInstantString":"0","HeartbeartBitmap":"GBg8PH5+////////f/4//B/4D/AH4APAAYAAAAAAAAA=","HeartrateInstantString":"0","SpeedInstant":0,"DeviceName":"&lt;YOURPHONE_NAME&gt;","Email":"","DistanceWorkout":0,"BikePowerInstant":0,"WorkoutRunningTimeString":"02:35","CadenceInstant":0,"WorkoutState":"Running"}</pre>
+<pre>{"HeartrateInstant":0,"LapRunningTimeString":"01:36","CadenceInstantString":"0","HeartbeartBitmap":"GBg8PH5+////////f/4//B/4D/AH4APAAYAAAAAAAAA=","HeartrateInstantString":"0","SpeedInstant":0,"DeviceName":"<YOURPHONE_NAME>","Email":"","DistanceWorkout":0,"BikePowerInstant":0,"WorkoutRunningTimeString":"02:35","CadenceInstant":0,"WorkoutState":"Running"}</pre>
 
  _Note, this was me testing it from my couch and not engaged in any physical activity, so the only sensor it had was GPS._ 
 
@@ -45,9 +45,9 @@ sock.bind((UDP_IP, UDP_PORT))
 while True:
     data_str, addr = sock.recvfrom(1024) # buffer size is 1024 bytes
     data = json.loads(data_str)
-    print addr, " -&gt; ", data</pre>
+    print addr, " -> ", data</pre>
 
-&nbsp;
+ 
 
 Why is this cool?
 
@@ -55,4 +55,4 @@ Why is this cool?
   
 ** 
 
-I&#8217;ll still have to spend some time figuring out what `HeartbeartBitmap` represents, but that&#8217;s (hopefully) trivial to reverse engineering how to connect to the sensor and it&#8217;s own protocol.
+I’ll still have to spend some time figuring out what `HeartbeartBitmap` represents, but that’s (hopefully) trivial to reverse engineering how to connect to the sensor and it’s own protocol.
