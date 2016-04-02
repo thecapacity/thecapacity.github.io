@@ -12,7 +12,7 @@ categories:
   - innovation
   - iobridge
 ---
-In the beginning you were a Starfighter, recruited by the Star League to defend the Frontier against Xur and the Ko-Dan armada&#8230; well, actually the beginning was something much simpler, something more like  [Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders).
+In the beginning you were a Starfighter, recruited by the Star League to defend the Frontier against Xur and the Ko-Dan armada… well, actually the beginning was something much simpler, something more like  [Space Invaders](http://en.wikipedia.org/wiki/Space_Invaders).
 
 Space Invaders was a classic, it spurred the video game industry, inspired a vast genre, can still be played [online](http://www.freespaceinvaders.org/) and occasionally even [in a lecture hall](http://www.youtube.com/watch?v=VczbbiRmDik).
 
@@ -26,9 +26,9 @@ Well, it would be hubris to claim that my [humble beginnings](http://hackaday.co
 
 [<img class="size-medium wp-image-256 alignright" style="border: 1px solid black; margin: 10px; margin-left: 20px;" title="Office Defender" src="http://blog.thecapacity.org/wp-content/uploads/2009/03/img_3193-300x225.jpg" alt="Office Defender" width="240" height="180" srcset="http://blog.thecapacity.org/wp-content/uploads/2009/03/img_3193-300x225.jpg 300w, http://blog.thecapacity.org/wp-content/uploads/2009/03/img_3193-1024x768.jpg 1024w" sizes="(max-width: 240px) 100vw, 240px" />](http://blog.thecapacity.org/wp-content/uploads/2009/03/img_3193.jpg)
 
-This might even classify as something much more sophisticated than some [Russian spy gear](http://www.crunchgear.com/2009/01/15/wiimote-controlled-coil-gun/)! Now I&#8217;m truly ready to defend my office against any and all invaders, alien or otherwise!
+This might even classify as something much more sophisticated than some [Russian spy gear](http://www.crunchgear.com/2009/01/15/wiimote-controlled-coil-gun/)! Now I’m truly ready to defend my office against any and all invaders, alien or otherwise!
 
-In truth, I&#8217;m hoping I can stash this in a friends office maybe for a surprise ambush! However, in practice it might be hard to convince someone to put on a face shield before heading to work.
+In truth, I’m hoping I can stash this in a friends office maybe for a surprise ambush! However, in practice it might be hard to convince someone to put on a face shield before heading to work.
 
 Building from [my previous creation](http://blog.thecapacity.org/2009/01/13/wiimote-controlled-coil-gun/) I connected my wiimote to a servo via some python and my [ioBridge](http://iobridge.com/) [204 module](http://iobridge.com/store/), only this time I replaced the coilgun with a remotely triggered airsoft gun! Now there are no more issues with reloading a weapons system half a world a way after each shot!
 

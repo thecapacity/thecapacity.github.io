@@ -10,21 +10,21 @@ categories:
   - code
   - couchdb
 ---
-This is a quick technical post for posterity, if you&#8217;re not interested I won&#8217;t be offended if you leave now.
+This is a quick technical post for posterity, if you’re not interested I won’t be offended if you leave now.
 
-I&#8217;m working to try to get couchdb on my hosting provider, Dreamhost. They&#8217;ve been a great service for me so far, but understandably this isn&#8217;t something they&#8217;re yet ready to support. So rather then a few apt-get&#8217;s I&#8217;m building it from source, which means erlang and spidermonkey.
+I’m working to try to get couchdb on my hosting provider, Dreamhost. They’ve been a great service for me so far, but understandably this isn’t something they’re yet ready to support. So rather then a few apt-get’s I’m building it from source, which means erlang and spidermonkey.
 
-I&#8217;ve got those two dependencies build (I hope) but I kept hitting an error with couchdb&#8217;s configure script complaining that it couldn&#8217;t find the libraries, despite me setting;
+I’ve got those two dependencies build (I hope) but I kept hitting an error with couchdb’s configure script complaining that it couldn’t find the libraries, despite me setting;
 
 > <pre>./configure --prefix=$RUN --with-js-lib=/home/wjhuie/run/lib/ --with-js-include=/home/wjhuie/run/include/js</pre>
 
-Note, since I don&#8217;t have root or sudo access that I use a ~/run directory;
+Note, since I don’t have root or sudo access that I use a ~/run directory;
 
 > <pre>export RUN=/home/wjhuie/run</pre>
 
-This is so I can isolate my installed software from the system stuff. In configuring couchdb it was able to find libjs.so but complained about not being able to find jsapi.h. In the end the error isn&#8217;t that it couldn&#8217;t find it but that the header wasn&#8217;t able to compile successfully.
+This is so I can isolate my installed software from the system stuff. In configuring couchdb it was able to find libjs.so but complained about not being able to find jsapi.h. In the end the error isn’t that it couldn’t find it but that the header wasn’t able to compile successfully.
 
-I searched far and wide with out much luck (and having seen others with similar problems) but in the end I realized I was missing some required files. Since the instructions from the couchdb wiki weren&#8217;t very useful;
+I searched far and wide with out much luck (and having seen others with similar problems) but in the end I realized I was missing some required files. Since the instructions from the couchdb wiki weren’t very useful;
 
 http://wiki.apache.org/couchdb/Installing_SpiderMonkey
 
@@ -45,14 +45,14 @@ cd Linux_All_OPT.OPJ
 cp jsproto.tbl jsautocfg.h $RUN/include/js
 cp libjs.so $RUN/lib</pre>
 
-A good way to get a hint on the problem is to create a sample &#8220;program&#8221; and try to compile it. To do this, create a file called &#8220;test.c&#8221; with the contents;
+A good way to get a hint on the problem is to create a sample “program” and try to compile it. To do this, create a file called “test.c” with the contents;
 
-> <pre>#include &lt;/home/wjhuie/run/include/jsapi.h&gt;
+> <pre>#include </home/wjhuie/run/include/jsapi.h>
 void main()
 { }</pre>
 
 Then try to compile it with;
 
-> <pre>make test 2&gt;&1 | less</pre>
+> <pre>make test 2>&1 | less</pre>
 
-That should allow you to see what&#8217;s going on and once that works then couchdb&#8217;s configure test should also! Now I have to sort out the unicode library requirements!
+That should allow you to see what’s going on and once that works then couchdb’s configure test should also! Now I have to sort out the unicode library requirements!

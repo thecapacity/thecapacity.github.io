@@ -10,10 +10,10 @@ categories:
   - Apple
   - hacks
 ---
-Here&#8217;s an idea for any aspiring hacker out there.
+Here’s an idea for any aspiring hacker out there.
 
-**Find a way to make Android mimic an iPhone when it&#8217;s connected.**
+**Find a way to make Android mimic an iPhone when it’s connected.**
 
 Users will gain the ability to use iTunes to sync music and podcasts (and possibly Apple Apps too if the emulation went that far).
 
-However, more important then just leveraging a known user interface it provides an obvious migration path off of Apple&#8217;s proprietary lock-in platform.
+However, more important then just leveraging a known user interface it provides an obvious migration path off of Apple’s proprietary lock-in platform.

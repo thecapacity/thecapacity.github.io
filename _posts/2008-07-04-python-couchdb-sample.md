@@ -1,6 +1,6 @@
 ---
 id: 76
-title: 'python &#038; couchdb sample'
+title: 'python & couchdb sample'
 date: 2008-07-04T17:15:05+00:00
 author: jay
 layout: post
@@ -11,17 +11,17 @@ categories:
   - couchdb
   - python
 ---
-Lacking any good examples of how to use python&#8217;s couchdb module, I&#8217;ve managed to make pretty impressive progress (for me) on a 4th of July holiday.
+Lacking any good examples of how to use python’s couchdb module, I’ve managed to make pretty impressive progress (for me) on a 4th of July holiday.
 
-I&#8217;ll try to recreated it here for others although I know it&#8217;ll be incomplete.
+I’ll try to recreated it here for others although I know it’ll be incomplete.
 
 Consider it a syntactical example;
 
 > import couchdb
   
-> s = couchdb.Server(&#8216;http://localhost:5984/&#8217;) ##why can&#8217;t it default to this?
+> s = couchdb.Server(‘http://localhost:5984/’) ##why can’t it default to this?
   
-> db = s[&#8216;stock_values&#8217;]
+> db = s[‘stock_values’]
   
 > ids = []
   
@@ -33,7 +33,7 @@ Consider it a syntactical example;
   
 > > d = db[doc]
   
-> > stock\_values[d[&#8216;symbol&#8217;]] = d[&#8216;historical\_data&#8217;]
+> > stock\_values[d[‘symbol’]] = d[‘historical\_data’]
 
 More good examples are in the code;
 

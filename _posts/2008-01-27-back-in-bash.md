@@ -12,15 +12,15 @@ categories:
 ---
 Quick little post today,
 
-_Using my previous two scripts you&#8217;ve (1) been able to separate a massive photo directory into 3rds (2) been able to take one of those directories and identify matching photos and move them into directories of their own, to make it easier to compare the results._
+_Using my previous two scripts you’ve (1) been able to separate a massive photo directory into 3rds (2) been able to take one of those directories and identify matching photos and move them into directories of their own, to make it easier to compare the results._
 
-_Now you&#8217;ve got a bunch of directories, most of which have 1 photo in them&#8230; what do you do._
+_Now you’ve got a bunch of directories, most of which have 1 photo in them… what do you do._
 
-I decided to take a break from Python for this one, it just didn&#8217;t seem the appropriate hammer for this nail.
+I decided to take a break from Python for this one, it just didn’t seem the appropriate hammer for this nail.
 
-So here&#8217;s a bit of bashing for you, I have an itch somewhere that makes me believe you can stat a directory to determine how many files are in it, but in this case find is the cheap date I was looking for.
+So here’s a bit of bashing for you, I have an itch somewhere that makes me believe you can stat a directory to determine how many files are in it, but in this case find is the cheap date I was looking for.
 
-_After this script, which I call consolidate.sh, you&#8217;ll be left with only the directories which have duplicates, Enjoy!_
+_After this script, which I call consolidate.sh, you’ll be left with only the directories which have duplicates, Enjoy!_
 
 > ``<br />
 #!/bin/bash</p>

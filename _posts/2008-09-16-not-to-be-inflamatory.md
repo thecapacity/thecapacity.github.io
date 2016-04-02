@@ -1,6 +1,6 @@
 ---
 id: 137
-title: 'Not to be inflamatory&#8230;'
+title: 'Not to be inflamatory…'
 date: 2008-09-16T20:55:17+00:00
 author: jay
 layout: post
@@ -10,6 +10,6 @@ categories:
   - frustration
   - social
 ---
-I don&#8217;t want to join in with another one of those &#8220;me too&#8221; complaints&#8230;
+I don’t want to join in with another one of those “me too” complaints…
 
-However, it seems to me like we might have money money for Social Security if the Government wasn&#8217;t spending what they had bailing out all these banks.
+However, it seems to me like we might have money money for Social Security if the Government wasn’t spending what they had bailing out all these banks.
