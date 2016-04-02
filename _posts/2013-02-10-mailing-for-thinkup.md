@@ -1,6 +1,6 @@
 ---
 id: 408
-title: 'Mailing for Thinkup &#8211; Hacking a Solution without using Sendmail'
+title: 'Mailing for Thinkup – Hacking a Solution without using Sendmail'
 date: 2013-02-10T22:02:19+00:00
 author: jay
 layout: post
@@ -10,32 +10,32 @@ categories:
   - code
   - opensource
 ---
-I&#8217;ve been meaning to try [Thinkup](http://thinkupapp.com/ "ThinkUp") for a long time now, and _finally_ got around to trying it out.
+I’ve been meaning to try [Thinkup](http://thinkupapp.com/ "ThinkUp") for a long time now, and _finally_ got around to trying it out.
 
 I also decided this was also a good time to try a [RaspberryPi](http://www.raspberrypi.org/) and so the system I ended up running it on was not as complete as a normal linux server, or commercially provided host.
 
 After installing dependencies, I quickly got stymied when I did not get a confirmation email.
 
-Apparently this isn&#8217;t unique:
+Apparently this isn’t unique:
   
 http://thinkupapp.com/docs/troubleshoot/common/emaildisabled.html
 
-Also, their guidance is that; &#8220;We strongly recommend running ThinkUp on a web server which can send email.&#8221;
+Also, their guidance is that; “We strongly recommend running ThinkUp on a web server which can send email.”
 
-[Using GMail as my SMTP server](http://lifehacker.com/111166/how-to-use-gmail-as-your-smtp-server "Using GMail as my SMTP server") seemed the obvious choice, but that was before I learned that PHP&#8217;s `mail()` function does not support authentication in any way.
+[Using GMail as my SMTP server](http://lifehacker.com/111166/how-to-use-gmail-as-your-smtp-server "Using GMail as my SMTP server") seemed the obvious choice, but that was before I learned that PHP’s `mail()` function does not support authentication in any way.
 
 Apparently the most popular solution I found on Google was to use [PHPMailer](http://phpmailer.worxware.com/ "PHPMailer") and this required some hacking that I wanted to document here.
 
-I&#8217;m not sure if all of these steps are necessary, but it worked for me (TM):
+I’m not sure if all of these steps are necessary, but it worked for me (TM):
 
   1. sudo vi /etc/php5/cgi/php.ini
   
     Add the line `extension=php_openssl.so`
   2. Download PHPMailer and extract it into your thinkup __lib_ directory [for me this was `/usr/share/nginx/www/thinkup/_lib]`
   3. Hack `/usr/share/nginx/www/thinkup/_lib/class.Mailer` 
-      * Add the following to the beginning of the file [right after &#8220;`<?php`&#8220;]: `"ini_set("include_path", ".:./PHPMailer_v5.1/");<br />
-require("PHPMailer_v5.1/class.phpmailer.php");`&#8220;
-      * Find &#8220;`} else { mail($to, $subject, $message, $mail_header);"` and comment it out [with //]
+      * Add the following to the beginning of the file [right after “`<?php`“]: `"ini_set("include_path", ".:./PHPMailer_v5.1/");<br />
+require("PHPMailer_v5.1/class.phpmailer.php");`“
+      * Find “`} else { mail($to, $subject, $message, $mail_header);"` and comment it out [with //]
       * then add:```<br />
 /** KLUDGE ADDED - START **/<br />
 $mail = new PHPMailer();<br />
@@ -53,18 +53,18 @@ $mail->Subject = $subject;<br />
 $mail->Body = $message;<br />
 $mail->WordWrap = 50;`if(!$mail->Send()) {
   
-        echo &#8216;Message was not sent.&#8217;;
+        echo ‘Message was not sent.’;
   
-        echo &#8216;Mailer error: &#8216; . $mail->ErrorInfo;
+        echo ‘Mailer error: ‘ . $mail->ErrorInfo;
   
         }
   
         else {
   
-        echo &#8216;Message has been sent.&#8217;;
+        echo ‘Message has been sent.’;
   
         }
   
-        /\*\* KLUDGE ADDED &#8211; END \*\*/
+        /\*\* KLUDGE ADDED – END \*\*/
 
-I hope that helps someone, I can&#8217;t say it&#8217;s extensively tested (I wanted to blog it all before I forgot) but it worked in my example test script, which has to be close enough, right!
+I hope that helps someone, I can’t say it’s extensively tested (I wanted to blog it all before I forgot) but it worked in my example test script, which has to be close enough, right!
