@@ -20,3 +20,4 @@ I realize there are some privacy concerns, since RSS & Atom explicitly make thin
 I might also argue that by opening up email to the same type of social collaboration we get via Google Reader then **the potential would exist to make things more secure**.
 
 For example, by adding a default copy-left style licensing, a la creative commons, or a per-email “off the record” flag like Google Talk. There could even be “free to share” delivery options rather then keeping everything on an “honor system”.
+

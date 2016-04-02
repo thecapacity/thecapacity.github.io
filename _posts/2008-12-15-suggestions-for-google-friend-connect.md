@@ -10,26 +10,26 @@ categories:
   - Google
   - social
 ---
-I&#8217;ve been building my [personal site](http://wjhuie.com) and one of the things I&#8217;m excited about is the chance to interconnect my work with the larger social networks out there.
+I’ve been building my [personal site](http://wjhuie.com) and one of the things I’m excited about is the chance to interconnect my work with the larger social networks out there.
 
-I believe every site should do what it&#8217;s best at and my intent isn&#8217;t to manage comments, wall posts or user signups and security. So once I got a basic life aggregator put together my next step was to integrate Google Friend Connect and see what it was all about.
+I believe every site should do what it’s best at and my intent isn’t to manage comments, wall posts or user signups and security. So once I got a basic life aggregator put together my next step was to integrate Google Friend Connect and see what it was all about.
 
-The idea of Friend Connect is to let Google proxy most of the &#8220;social interactions&#8221; for you so you can simply deal with what you do best (which is likely developing useful content and interacting with other humans&#8230; not swearing over spam and comment plugins).
+The idea of Friend Connect is to let Google proxy most of the “social interactions” for you so you can simply deal with what you do best (which is likely developing useful content and interacting with other humans… not swearing over spam and comment plugins).
 
-It&#8217;s incredibility easy to get up and running, you simply copy two HTML files to your site and let Google give it a once over. After that things are &#8220;configured&#8221; but there&#8217;s still no interface for interacting &#8220;socially&#8221; with the site.
+It’s incredibility easy to get up and running, you simply copy two HTML files to your site and let Google give it a once over. After that things are “configured” but there’s still no interface for interacting “socially” with the site.
 
-In order do that you add a members gadget (or a smaller signon module) and &#8216;viola &#8211; People are now able to &#8220;join&#8221; your site! To get one of these plugins installed you use Google&#8217;s site to generate the necessary Javascript and HTML. I simply copied these codes into a &#8220;friend.html&#8221; file which is loaded via a corresponding menu item.
+In order do that you add a members gadget (or a smaller signon module) and ‘viola – People are now able to “join” your site! To get one of these plugins installed you use Google’s site to generate the necessary Javascript and HTML. I simply copied these codes into a “friend.html” file which is loaded via a corresponding menu item.
 
-It&#8217;s not very difficult but you need to have a fairly straightforward &#8220;color scheme&#8221; defined and I don&#8217;t understand why &#8220;Links&#8221; and &#8220;Secondary Links&#8221; are two separate categories. I also don&#8217;t like that the CSS Style information is coded inline but I understand this makes it a single step to setup.
+It’s not very difficult but you need to have a fairly straightforward “color scheme” defined and I don’t understand why “Links” and “Secondary Links” are two separate categories. I also don’t like that the CSS Style information is coded inline but I understand this makes it a single step to setup.
 
-Nontheless it&#8217;s pretty straightforward, but it annoys me that Google makes you re-enter your color settings each and every time, i.e. not only if you regenerate one of the plugins but a new plugin is similarly &#8220;blind&#8221; as to your preferences. You also have to pick a general &#8220;size&#8221; for your widget which isn&#8217;t difficult thanks to the Web Developer&#8217;s Dislpay Ruler (under Miscellaneous).
+Nontheless it’s pretty straightforward, but it annoys me that Google makes you re-enter your color settings each and every time, i.e. not only if you regenerate one of the plugins but a new plugin is similarly “blind” as to your preferences. You also have to pick a general “size” for your widget which isn’t difficult thanks to the Web Developer’s Dislpay Ruler (under Miscellaneous).
 
-So once it&#8217;s up and running, what are my impressions?
+So once it’s up and running, what are my impressions?
 
-Well it&#8217;s certainly a neat idea but I was a bit underwhelmed. Currently, there&#8217;s only a &#8220;Wall&#8221; a &#8220;Rate and Review&#8221; widgets available and neither of my two test posts &#8220;left&#8221; the walled garden of my site. What I&#8217;d like is the ability to control the publishing of these &#8220;events&#8221; so that my twitter friends currently know if I&#8217;m active and engadged on a site!
+Well it’s certainly a neat idea but I was a bit underwhelmed. Currently, there’s only a “Wall” a “Rate and Review” widgets available and neither of my two test posts “left” the walled garden of my site. What I’d like is the ability to control the publishing of these “events” so that my twitter friends currently know if I’m active and engadged on a site!
 
-It also wasn&#8217;t clear with the widgets how I&#8217;d solve typical &#8220;use cases&#8221;. For example currently my site&#8217;s &#8220;Wall&#8221; is only on a single page, but if you wanted to use this plugin for post comments how would that be done? How could I connect it to Akismet so I didn&#8217;t have to worry about spam filtering? How about other common features like emailing people when someone posts a folow up, or what about an RSS feed for this widget?
+It also wasn’t clear with the widgets how I’d solve typical “use cases”. For example currently my site’s “Wall” is only on a single page, but if you wanted to use this plugin for post comments how would that be done? How could I connect it to Akismet so I didn’t have to worry about spam filtering? How about other common features like emailing people when someone posts a folow up, or what about an RSS feed for this widget?
 
-There doesn&#8217;t seem to be the typical wealth of developer documentation either. I haven&#8217;t yet investigated the &#8220;Lame Game Demonstration&#8221; or how to build a custom gadget. But given that it&#8217;s Google I think API&#8217;s and sample code is likely forthecoming.
+There doesn’t seem to be the typical wealth of developer documentation either. I haven’t yet investigated the “Lame Game Demonstration” or how to build a custom gadget. But given that it’s Google I think API’s and sample code is likely forthecoming.
 
-Bottom line, it&#8217;s a start but given all the noise this has been making for so long I was expecting things to  be much farther along. Still get started and you&#8217;ll find yourself on the forefront of yet another Beta product from Google!
+Bottom line, it’s a start but given all the noise this has been making for so long I was expecting things to  be much farther along. Still get started and you’ll find yourself on the forefront of yet another Beta product from Google!

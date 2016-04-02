@@ -73,3 +73,4 @@ Neural nets are commonly built with layers, each of which typically contains mul
 So in my case “A” is the first layer containing “input\_x” and “input\_y” and “C” is the output layer containing “output\_x” and “output\_y”. Layer B would have many nodes all receiving the output from both nodes in layer A. (As an aside you can have more complicated layering systems, for example “output\_x” might also have a direct link from “input\_x” to further augment it’s correlation and it is legal for a layer to only have a single node.)
 
 So you’ve the “API” for our neural net and part 2 covers the underlying mathematical (and procedural) mechanics so I should be able to wrap up next time by discussing how to get this thing off the ground and see how it works!
+

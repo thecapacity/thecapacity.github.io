@@ -12,3 +12,4 @@ categories:
 Although I believe everyone has the capacity, it’s not always the case that we get to use our energy all at once on a single project.
 
 So with that said, this will evolve as it can
+

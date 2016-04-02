@@ -22,3 +22,4 @@ http://192.168.1.99:5984/stock\_values/\_view/all_stocks/all
 I was really getting tripped up by figuring out the corresponding python version which would be;
 
 for ro in db.view(‘all_stocks/all’): print ro.id
+

@@ -110,3 +110,4 @@ That seems like a natural place to conclude part one and I know we didn’t get 
 **Update:** I have this part running (minus the couchdb and neural net code since I can’t figure how how to get those working via fastCGI) but you can check out the basic idea here;
 
 http://nn-click.thecapacity.org/
+

@@ -23,3 +23,4 @@ Focusing on API’s for connecting people’s various identities and sites will 
 I can add photos too, once I figure tuat part out. But first thing first… Can someone get a better spell check please? 
 
 [<img src="http://blog.thecapacity.org/wp-content/uploads/2008/07/p-640-480-add2d0fd-73a2-49dd-8182-d6c806e4d6e5.jpeg" alt="photo" width="225" height="300" class="alignnone size-full wp-image-364" />](http://blog.thecapacity.org/wp-content/uploads/2008/07/p-640-480-add2d0fd-73a2-49dd-8182-d6c806e4d6e5.jpeg)
+

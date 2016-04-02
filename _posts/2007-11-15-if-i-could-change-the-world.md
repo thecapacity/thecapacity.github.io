@@ -28,3 +28,4 @@ Why can’t your Facebook “status” be slurped from Twitter, or pushed there?
 **Seamless integration, it’s what many of the best “hacks” seem to be about.**
 
 **Lets be witty I’ll call it “seemless” integration, where multiple services seem unified.**
+

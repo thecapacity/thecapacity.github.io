@@ -31,3 +31,4 @@ A few weeks ago, during dinner, I expressed this feeling to a colleague who’s 
 > We’ve had some rough years and back when it got really rough and all the talent had left, they threw us green guys out in the field. And you know what? You learn, you learn real fast.
 
 **Sink or swim, trial by fire… sometimes I wish life didn’t have to be so binary, but the reminder that no true opportunity can every really be cushioned is priceless.**
+

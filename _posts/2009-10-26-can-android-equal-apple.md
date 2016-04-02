@@ -17,3 +17,4 @@ Here’s an idea for any aspiring hacker out there.
 Users will gain the ability to use iTunes to sync music and podcasts (and possibly Apple Apps too if the emulation went that far).
 
 However, more important then just leveraging a known user interface it provides an obvious migration path off of Apple’s proprietary lock-in platform.
+

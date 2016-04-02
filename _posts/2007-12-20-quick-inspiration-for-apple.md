@@ -29,3 +29,4 @@ My belief is that the default behavior of the iPhone should stay just as it is. 
 Hopefully that made sense, otherwise Funamizu-san will have to give me a lot of graphics lessons.
 
 **Happy Holidays to you all!**
+

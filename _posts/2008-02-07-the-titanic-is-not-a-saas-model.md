@@ -23,3 +23,4 @@ _In my experience although SaaS lies somewhere in between a truly distributed mo
 _SaaS architectures are more like getting around Europe. You’ve got planes, trains, automobiles and yes, even boats. Each transport has it’s own qualities of service, it’s own pros and cons._
 
 _It’s not a defensive posture that makes SaaS successful but rather the flexibility in choice._
+

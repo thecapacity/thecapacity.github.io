@@ -21,3 +21,4 @@ The title “Fire your best people, reward the lazy ones” is inflammatory but 
 I know “traditionally” such knowledge lock-in was considered “job security” but it’s an attitude I find unfathomable. Perhaps if you enjoy being stuck forever in your current job, however **such an isolationist tendency will quickly leave your code and skills outdated and ripe for replacement.**
 
 **So ask yourself, How have you emabled someone today?**
+

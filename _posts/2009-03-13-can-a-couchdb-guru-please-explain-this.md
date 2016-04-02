@@ -125,3 +125,4 @@ In short I’m left with three questions;
 3) How do we get our JSON output to match the same pretty key/value representation that couchdb shows?
 
 I wish I could promise that if you tune in next time I’ll have the answers but we’ll have to rely on the good nature of our experts out there to help us out.
+

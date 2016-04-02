@@ -25,3 +25,4 @@ Take a breath, take a break and take note;
 **[Don’t loose the battle of progress because of a single nail!](http://www.rhymes.org.uk/for_want_of_a_nail.htm "For want of a nail...")**
 
 PS. I’m also sure I could use this experience to make a great case on how continuous partial attention enforces a marginalized standard of excellence. Of course I could also point out that at least I got a blog post written!
+

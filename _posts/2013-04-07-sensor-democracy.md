@@ -56,3 +56,4 @@ Why is this cool?
 ** 
 
 I’ll still have to spend some time figuring out what `HeartbeartBitmap` represents, but that’s (hopefully) trivial to reverse engineering how to connect to the sensor and it’s own protocol.
+

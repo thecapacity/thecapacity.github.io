@@ -52,3 +52,4 @@ I saw this illustrated clearly while working at a tradeshow last week. My instin
 That’s just a start, but **I think there’s many reasons why you should take as long as you’ve got, to say as much as you can.** Just as Web 2.0 focuses on being “feature stingy” rather then “feature rich” the new 2.0 way to pitch your plan is in through a conversation, not a soundbight.
 
 **You clearly need to think out how to say what you want to say, this is no excuse to not prepare. However, [thin-slicing](http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBlink_(book)&ei=aahaSNSLLaLQiAHaosH3Cw&usg=AFQjCNHzGg40KHD-RXQdTuXjLzLfyQkLdQ&sig2=k-Mk8oZkZYD0wm6ewDgvGQ) aside, no matter what power tie you’re wearing, there’s too much competition for you to expect people to get hooked by 60 seconds of information.**
+

@@ -56,3 +56,4 @@ Then try to compile it with;
 > <pre>make test 2>&1 | less</pre>
 
 That should allow you to see what’s going on and once that works then couchdb’s configure test should also! Now I have to sort out the unicode library requirements!
+

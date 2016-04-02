@@ -24,3 +24,4 @@ I always find it interesting to compare and contrast my experience with a presen
 _I’m most interested in the “implications and extrapolation” phase of a presentation as opposed to ones that review the “what and why” of an activity._
 
 _I hope you’ll find this interesting and helpful and if there’s any parts I can help elaborate on please let me know._
+

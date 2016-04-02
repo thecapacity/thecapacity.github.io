@@ -38,3 +38,4 @@ Consider it a syntactical example;
 More good examples are in the code;
 
 http://code.google.com/p/couchdb-python/source/browse/trunk/couchdb/client.py?r=61
+

@@ -31,3 +31,4 @@ _Wal*Mart attempts to server “the common man” but it seems clear that Amazon
 _One last question and thought; Why has this taken so long?_ We can be pedantic about definitions or dissect the statement that innovation can truly not exist without invention. Semantics aside, I believe Amazon’s practice and “inventions” in the webservices technologies has afforded them the “innovation” required to bridge this gap.
 
 _PS, if you have the opportunity check out iTunes U_, specifically the presentations by <a title="Thomas Friedman - The World is Flat" href="http://www.thomaslfriedman.com/worldisflat.htm" onmousedown="return rwt(this,'','','res','3','AFQjCNE2Gde70680r7m2iN_yMQNfXevDJg','&sig2=Pv1Rk63kaJof3SnJ1QeOvw')">Thomas L. Friedman</a> at MIT; “The World is Flat” and “The World is Flat 3.0”.
+

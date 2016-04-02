@@ -78,3 +78,4 @@ _So in case it helps anyone here’s my “code”. I’m sure there are some mo
 > for f in files[num\_files*2/3+1 : num\_files]: #slice 3
   
 > move(f, “3”)
+

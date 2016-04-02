@@ -20,3 +20,4 @@ So I thought I’d share a pick of my recent book. Combined we’ve probably man
 Hope you’re enjoying some reading too!
 
 [<img src="http://blog.thecapacity.org/wp-content/uploads/2008/09/p-640-480-55a229cd-2e7c-4f4b-b9eb-90faa5fcace1.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />](http://blog.thecapacity.org/wp-content/uploads/2008/09/p-640-480-55a229cd-2e7c-4f4b-b9eb-90faa5fcace1.jpeg)
+

@@ -27,3 +27,4 @@ LinkedIn actually leverages the introduction concept. I believe the woman’s mi
 Social networks are bringing a level of ‘intimacy’ to a scale most of us are unused to experiencing. However, as Giff Constable [remarks](http://blogs.electricsheepcompany.com/giff/?p=474 "The 95% club") **there’s a lot of power in being able to extend a ‘friendship’ to someone you would have lost touch with previously.**
 
 **Clearly, just as IRL, some of those ‘friends’ will have [more tact](http://www.businessweek.com/managing/content/oct2007/ca2007109_711568.htm?campaign_id=rss_daily "10 Tips for Networkers") then others.**
+

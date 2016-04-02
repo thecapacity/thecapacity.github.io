@@ -45,3 +45,4 @@ It’s still better than nothing!
 I suspect it’s related to using Apple’s version of Java. I had allowed Apple to remove whatever version I had installed, since I hadn’t using Processing/Arduino, so when it needed java again I let it install the default.
 
 It pains me to say it, but I may have to try Oracle’s version tomorrow….
+

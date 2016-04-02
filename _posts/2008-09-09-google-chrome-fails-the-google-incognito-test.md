@@ -30,3 +30,4 @@ My second thought was to create a second incognito window (since Google hasn’t
 **Obviously, this lack of true isolation surprises to me.** <span style="text-decoration: underline;">Cookies appear to be shared across tabs and it appears you’re forced into having only one private window at time!</span> This would be awful if you were browsing multiple sites looking for a great shopping deal, but didn’t want them to know about other sites or if you were a web tester trying to isolate cookies from test runs.
 
 Chrome’s a work in progress and Google’s [opensourceed the project](http://code.google.com/chromium/), so I can only hope someone will address these concerns. However, in the meantime it pays to test your expectations and if Google really [wants to make webapps more like desktop apps](http://www.google.com/googlebooks/chrome/small_24.html) I think this needs to be addressed.
+

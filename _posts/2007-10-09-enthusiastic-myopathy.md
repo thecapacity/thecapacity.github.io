@@ -26,3 +26,4 @@ But beyond shadowy discussions of “valuations”, “opportunity costs” and 
 The nature of enthusiasts suggests determination and focus, while “generalists” may have opportunities to provide “bigger picture” views, which does not imply lower value. **It is hard to overlook an enthusiasts’ myopic tenancies, leaving those less dedicated the opportunity to innovate.**
 
 Seth’s correct in implying that **you must have passion to succeed**, and attention to detail is important too. **However, it doesn’t mean you have to harvest your own charcoal, simply [build your own lightsabers](http://radar.oreilly.com/archives/2007/03/jedi_build_thei.html "Build your own lightsabers").**
+

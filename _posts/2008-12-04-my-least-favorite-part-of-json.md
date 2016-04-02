@@ -16,3 +16,4 @@ I love how simple the JSON spec is. I never enjoyed reading through all the XML 
 However, I hate that ” is the only quoting character you can use. I’ve come to love python’s equal tolerance for ‘c’ and “c”.
 
 I like that JSON’s simple but wish it was simply more accommodating.
+

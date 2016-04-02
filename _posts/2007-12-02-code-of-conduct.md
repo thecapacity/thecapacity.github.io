@@ -28,3 +28,4 @@ So can we use Brad’s realization to inspire an “end consumer, SaaS using, RE
 An initial standard must require “import/export”. However, I don’t think that captures what we’re after. **There needs to be unmodified event reporting**, and [not the Facebook styile of “something’s changed come visit to check it out”](http://informationweek.com/shared/printableArticle.jhtml?articleID=204203573 "Cory Doctorow on Facebook"). If we’re going to expect an application to report on state changes (presumably reporting these to another application which can act on that state) then **we must also require an external mechanism for inducing state changes**. Continuing to use Facebook as a model I believe it’s reasonable to expect an API for “friending” or changing status.
 
 **What other requirements should services we use be encouraged to provided?**
+

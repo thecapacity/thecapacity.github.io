@@ -24,3 +24,4 @@ This should also signal a return to “projecting” for me, which is another ev
 Hopefully you’ve not all forgotten about me and you’ll forgive my absence. I hope I perhaps just sat idle in your RSS feeds and you didn’t feel the need to purge me because of the silence.
 
 j
+

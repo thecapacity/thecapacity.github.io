@@ -43,3 +43,4 @@ There’s really](http://www.crunchgear.com/2009/04/16/killercopter-uav-snipes-y
 > In the arts of peace Man is a bungler. I have seen his cotton factories and the like, with machinery that a greedy dog could have invented if it had wanted money instead of food. I know his clumsy typewriters and bungling locomotives and tedious bicycles: they are toys compared to the Maxim gun, the submarine torpedo boat. There is nothing in Man’s industrial machinery but his greed and sloth: his heart is in his weapons. This marvellous force of Life of which you boast is a force of Death: Man measures his strength by his destructiveness
   
 > <cite>— George Bernard Shaw </cite>
+

@@ -20,3 +20,4 @@ Both are great, and I wouldn’t want to have to pick a favorite, though I love 
 Unlike the video’s humorous conclusion, that we still have the fates to blame, I ascribe to the [Vaynerchuk](http://garyvaynerchuk.com/) believe that it’s up to you to “[Crush It](http://rooreynolds.com/2008/10/12/gary-vaynerchuck-and-others-at-the-web-20-expo-ny/)“. I also think that if you don’t “make it” then it’s less about fault and more about desire and whether or not that perceived outcome was appropriate.
 
 Regardless of how you percieve Fate, Destiny or Karma I find it inspirational to believe “[you can do it](http://www.youtube.com/watch?v=_rAHnwWfsaY)” is a creed experts think you can live by, just don’t stop.
+

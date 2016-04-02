@@ -28,3 +28,4 @@ It may be that the bulk of the book is more even keeled or I mistakenly judged t
 I do practice cutting free and try to remember to experience events and not simply record them. However, I think it speaks of false hope and misconstrued expectation to believe you can only find goodness outside of, or without. technology.
 
 I’d love to hear about your experience with this book if anyone manages to give it a go but it certainly won’t be one I’d recommend putting on your holiday wish list.
+

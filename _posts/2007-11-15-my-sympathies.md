@@ -22,3 +22,4 @@ I’m sure “worthless” was meant spiritually as in the ever pursuit of perfe
 However, this personality trait manifests in more insidious was, such as when I quit before I finish because I perceive flaws too strongly. Or I capitulate by investing too much upfront time, never actually starting and thus never technically failing, but the end result is the same or worse then having failed in the attempt.
 
 That was one realization I had from reading their article. For some other interesting perspectives of your own check it out.
+

@@ -23,3 +23,4 @@ However, even after all the successes of “social networking”, **Genius reall
 As often as I send links to friends with delicious, or videos on YouTube, **you’d think a day had come with you could nudge your friends to try out this song**… well of course Zune tried that but failed.
 
 However, one believes Apple could “do it right” and **the fact that they haven’t even tried seems suspicious.** It seems that until they do, whether it’s from “Top 40” count downs or inhuman algorithms, we’ll forever be forced to take “the man’s” word for what’s cool.
+

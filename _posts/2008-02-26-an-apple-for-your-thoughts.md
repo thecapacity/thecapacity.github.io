@@ -15,3 +15,4 @@ _Am I the only one who wonders why Apple has to take their store offline every t
 It doesn’t seem beyond Apple’s ability to “flip a switch” to make things instantly live.
 
 For a company as secretive about product announcements, you could say they do it to ensure a higher level of secrecy, but _I have to imagine they do it for the marketing buzz_.
+

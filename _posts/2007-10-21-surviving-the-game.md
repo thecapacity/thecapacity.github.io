@@ -17,3 +17,4 @@ It’s kind of demoralizing. I want to believe it’s possible to be true to one
 I suppose they’re being true to themselves, where as my “true-ness” says that I should get outside and watch some Lacross, work on making a garage door, help cook, play with my dog, read a book.. etc… not spend hours (even minutes) trying to game TechMeme.
 
 How do people with a balance in their lives do it?
+

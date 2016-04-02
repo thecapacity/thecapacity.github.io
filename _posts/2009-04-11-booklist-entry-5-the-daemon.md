@@ -28,3 +28,4 @@ I also thought the story spent some credibility “justifying” its realism, e.
 If you take the “futuristic” parts on faith (which is required for any good sci-fi book) then you can ignore the other bits as you see fit and **I’m sure you’ll be well entertained and even a little torn as to which side to cheer for!**
 
 Also, if you like this one I highly recommend giving any of the books by [Charles Stross](http://www.antipope.org/charlie/fiction/faq.html) a try. **Specifically [Halting State](http://www.amazon.com/Halting-State-Charles-Stross/dp/B001CJP2MY/ref=sr_1_1?ie=UTF8&s=books&qid=1239493461&sr=1-1&tag=thecapacity-20), which seems to have a lot of overlapping & parallels themes and was even more enjoyabale for me, but only just**
+

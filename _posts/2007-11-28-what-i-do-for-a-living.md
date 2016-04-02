@@ -41,3 +41,4 @@ It’s probably also certain that what I do will never serve you a funny spoof o
 While we’re not as vocal about what we do as eBay or YouTube, I feel confidant that our clients haven’t endured the endless cycle of sleepless nights of the YouTube team (watch the video), or suffered the [numerous](http://www.news.com/eBay-outage-a-one-two-punch/2100-1033_3-217457.html) [downtime](http://www.news.com/eBay-online-again-after-14-hour-outage/2100-1017_3-229518.html) [issues](http://www.theregister.co.uk/2007/08/20/skype_outage_post-mortem/) for which eBay become known.
 
 Maybe we should make a bigger effort to be present at these conferences, I’d like to believe I could effect that change. I’ve learned a lot just by watching the after effects, and I believe sharing with the same community would make us all more successful.
+

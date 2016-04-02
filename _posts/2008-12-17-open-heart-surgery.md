@@ -18,3 +18,4 @@ Unfortunately, pasting HTML into a blog post usually isn’t successful but I be
 I could then use jQuery to parse on this div ID (rather then having to find out the ioBridge widget number), which isn’t hard either and convert the html content to a floating point value. It’s a straightforward query though you may have to play with the “split()” function depending on your layout and sensor.
 
 If you’ve got any questions feel free to email me, jay, at thecapacity.org or find me via http://wjhuie.com
+

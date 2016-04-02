@@ -28,3 +28,4 @@ So, for example, there’s no reason there couldn’t be a plugin for Java that 
 If this were possible, then ‘language wars’ could be less about syntax and interface (a la emacs vs. vi) and more about the underlying value of the language itself.
 
 **If we can theme operating systems and user interfaces, then why not programming languages?**
+

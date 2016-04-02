@@ -32,3 +32,4 @@ _The important realization is that everyone and everything disappoints in some w
 _Avoiding the potential for failure is in and of itself a disappointment, for without the effort I wouldn’t have joy of toys that are cool when they work. If you take them in stride and carry past the implications, anything is surmountable._
 
 _So soldier on… but [be careful](http://www.swiatocha-wyble.com/2008/02/23/be-careful/ "Be Careful, because I love you")_
+

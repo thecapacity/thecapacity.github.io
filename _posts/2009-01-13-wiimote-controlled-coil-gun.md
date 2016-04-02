@@ -44,3 +44,4 @@ In this setup I use a python script and [MoteDaemeon](http://screenfashion.org/r
 I’m not sure it’s up to [DoD](http://www.defenselink.mil/) standards yet but remember the only required link between the wiimote and the ioBridge module is the Internet so if you can sneak one of these into your friend’s house, or a colleagues’ office, then **you could be anywhere on the planet with Internet access and stick it to them!** 
 
 **How’s that for “Can you hear me now?”.** Check out the video of it in action on [YouTube](http://www.youtube.com/watch?v=aBKoaXtHyfs) or [Vimeo](http://www.vimeo.com/2815315)!
+

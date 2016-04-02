@@ -16,3 +16,4 @@ My path has been to try to get [content first](http://blog.thecapacity.org/ "the
 Next comes “marketing” to eventually determine the value of my contribution. For starters this; <a href="http://technorati.com/claim/dcc52x6ww" rel="me">Technorati Profile</a>. It’s something I don’t expect or hope to invest much time in. Not because I believe “if I blog it the world will come” but rather because I want the practice of content to be my priority.
 
 Are there any others ? Oh yes, readers…
+

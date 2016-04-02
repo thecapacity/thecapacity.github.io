@@ -75,3 +75,4 @@ Unfortunately, business necessitates an alternate reality and **if expediency, s
 However, Kevin would be right to point out that **many companies require “flexible on-demand IT” in order to succeed, even if they don’t realize it,** trapped as they are in legacy models and processes.
 
 **When companies talk about outsourcing these components, or letting a vendor’s software product dictate their business & IT processes… I always check to make sure my lightsaber is close.**
+

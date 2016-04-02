@@ -68,3 +68,4 @@ $mail->WordWrap = 50;`if(!$mail->Send()) {
         /\*\* KLUDGE ADDED – END \*\*/
 
 I hope that helps someone, I can’t say it’s extensively tested (I wanted to blog it all before I forgot) but it worked in my example test script, which has to be close enough, right!
+

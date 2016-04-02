@@ -16,3 +16,4 @@ No, I’m not really headed back to school, just enjoying a moment of brevity wi
 I wouldn’t take it too seriously as I’m not sure how a “determination” is made, but that’s kind of the point sometimes.
 
 Make sure to stay light and enjoy what you can!
+

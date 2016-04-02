@@ -24,3 +24,4 @@ It’s not slow and steady that wins the race, it’s just steady.
 For this project, there is no race and no “final assembly” picture either. Yet the process is the same, complicated worthwhile things are made from simple tasks strung together, not left incomplete.
 
 – j
+

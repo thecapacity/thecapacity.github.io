@@ -86,3 +86,4 @@ You might also consider finding relationships based on trading volumes but I hav
 **Shows us that the prices (up and down) for the 125 stocks I’d selected are in fact represented by the movement of just 68 overall stocks!**
 
 **That’s like being able to capture the excitement from a full summer of movies by only going to see 55% of the movies!**
+

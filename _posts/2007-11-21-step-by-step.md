@@ -28,3 +28,4 @@ Yet often, the only passion we see in business is the drive to get ahead or “t
 Perhaps it’s an intrinsic motivation that we can not teach of cultivate in our workforce, but even if that’s so **I believe it’s something we must all strive to represent.** It’s a level of constant neivity that hearkens back to our childhood. **It’s the attitude embodied in the opensource movement**, both by code and by open knowledge.
 
 **I hope a generation of success, fostered by that open spirit, will teach us we can all run the marathon of business knowing someone will be there to pick us up if we fall and pace us without guilt, and all with thousands of fans cheering their guts out.**
+

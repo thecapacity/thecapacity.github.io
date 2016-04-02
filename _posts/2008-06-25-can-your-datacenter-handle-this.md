@@ -59,3 +59,4 @@ On average, for a typical cluster configuration of 1000 machines you’ll have;
   * ~12 router reloads, takes out DNS and external VIPs for a couple minutes
   * ~3 router failures, have to immediately pull traffic for an hour
   * ~dozens of minor 30-second blips for DNS
+

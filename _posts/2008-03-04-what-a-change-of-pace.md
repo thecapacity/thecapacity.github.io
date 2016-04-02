@@ -14,3 +14,4 @@ I can’t swear, and I don’t want to jinx it, but _I just ‘finished’ a big
 _If there’s anything broken please let me know_. I’m missing some plugins but I don’t think they were anything critical or maybe even anything used.
 
 _Hope your technology experiences are going as well!_
+

@@ -18,3 +18,4 @@ However, **my list has many things that I feel I “really should do” which ke
 Fancy organizational tricks are sometimes another way of reconciling the reality that you’ll never get every task done. However, **Adam’s post speaks to some of the underlying reasons why many things won’t get done**, at least not without a major struggle, whatever the organizational system you use.
 
 **If you can’t make yourself <u>want</u> to accomplish the task, then it will be painful to do even if it <u>should</u> be done.** I think we can all learn this lesson from Adam. It doesn’t mean things suddenly become easy, but if we can find a way to desire completion the rebel won’t interfere.
+

@@ -1,6 +1,6 @@
 ---
 id: 156
-title: 'Booklist &#8211; Entry 2'
+title: 'Booklist – Entry 2'
 date: 2008-10-18T17:59:07+00:00
 author: jay
 layout: post

@@ -26,3 +26,4 @@ I’d like nothing more than to be able to finish this post with a witty and ins
 **Ultimately, I can’t tell you why you’d care, and I fear trying to do so would remove from you that sense of feedback and empowerment that I think we all crave.**
 
 **What do you think? Is attempting to describe this activity an ultimate limit on why we all care?**
+

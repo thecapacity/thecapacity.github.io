@@ -71,3 +71,4 @@ _So here’s my quick list till now (p11) [I’ll try to add new ones as comment
 {11} from recommendations import critics, sim_distance #reload(recommendations) didn’t work for me. You’ll have to change the subsequent function call as well and because of the previous errata the returned # should be 0.2942 (approximately) and not 0.1481
 
 {11} This wasn’t my find, I learned it from the user submitted errata, but someone mentioned using “si = set()” and then “si.add(item)” instead of “si[item]=1” … Both make sense, but the set seems cleaner and was a new semantic for me.
+

@@ -33,3 +33,4 @@ As usual, and is typical, **I think Scoble’s got the right idea just misplaced
 ** 
 
 So far google, or even yahoo, are the best representations of this ideal. They’re both in a position to find my interests, my pictures and my friends. Unfortunately, for now, name isn’t a sufficient differentiator for search engines.
+

@@ -37,3 +37,4 @@ Underlying it all, are deep philosophical questions as integral to humanity’s 
   * **Does my subdivision’s swimming pool classify as IaaS**, with its broad network-wide (i.e. roads) access, and rapid elasticity (easy capacity management) and measured service (towel charge) if there’s no lifeguard (On-demand self-service)? ****Surely you don’t need me to explain “resource pooling”.
 
 **Strictly speaking I’m not sure where I stand, but I think Turing would tell me to go with the duck and even a million monkeys patching the pool shouldn’t change my mind.**
+

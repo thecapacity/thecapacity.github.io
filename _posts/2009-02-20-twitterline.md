@@ -31,3 +31,4 @@ The API is “RESTful” and is simply “http://twitterline.shelv.us/twitterlin
 **However, beyond just looking at the bar graph on my site, you should be able to embed it wherever you wish!** You can check the source on my [example](http://twitterline.shelv.us/trial), mostly you’ll need to make sure [jQuery](http://jquery.com/) and [jQuery.Flot](http://code.google.com/p/flot/) are embedded first and you’ll likely want to tweak the CSS. Just let me know if you need help to it up and running or if you’d like some different defaults.
 
 **It’s intended to be a simple culmination of a more complex process (which I’ll blog more on later) but I hope it inspires you to dust off a project of your own or start a new one!**
+

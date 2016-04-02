@@ -19,3 +19,4 @@ Unfortunately, the standard [python-twitter library](http://code.google.com/p/py
 In the process of building my own library I found out that [Avinash](http://avinashv.net/) had [figured out](http://avinashv.net/2008/04/python-and-twitter/) how to setup the authentication properly so I built upon his work and added a few other functions I needed.
 
 We all know about twitter’s growing popularity so I thought I’d share [my version](http://svn.wjhuie.com/public_sandbox/trunk/python/jtwitter.py) as well in case it proved helpful to anyone. Twitter provides a great mechanism to decouple your interface from your backend code and I hope to see many more smart systems to come!
+

@@ -21,3 +21,4 @@ I believe the explicit and overt embrace of the social is what makes the opensou
 Its a collection of belief and behaviors I’ve attempted to represent and embody as I contribute in my corporate career. However, it often works in direct contrast to traditional behaviors. Sometimes disappointing, often frustrating it can be hard to believe in the path.
 
 However, I’m fortunate to work with peers who share the expectations of open collaboration and ignore the artificial boundaries of convention. Adam seems to be another such soul and I hope his work in the enterprise continues to spread the message.
+

@@ -39,3 +39,4 @@ I’m really not one to “brag” about my gadgets and I hate it when people sh
 I’m sure many of the geeks among you have utilized similar functions to fulfill similar situations, for me this was just “my time” to “get it”.
 
 **I realized in the span of an hour how in many ways a still naive tool could make my life more “[seemless](http://blog.thecapacity.org/?p=24 "Seemless integration")“. I****t’s less about the specifics and more about the realization of what’s to come, and I want more!**
+

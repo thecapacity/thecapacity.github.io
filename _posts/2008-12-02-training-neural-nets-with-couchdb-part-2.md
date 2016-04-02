@@ -166,3 +166,4 @@ Back to my situation though, I’d thought maybe each node could store an array 
 Before I get into much more detail let me [show you the code](http://dpaste.com/hold/95456/) so you can take a moment to look it over and formulate some thoughts.
 
 I’ll be back with post 3 to try and tie it all together (including a step back to revisit the overall connections, talk more about Neural Nets and my impressions of couchdb).
+

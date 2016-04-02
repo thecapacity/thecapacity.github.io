@@ -19,3 +19,4 @@ _Before you go.. note the “~christos” part of the URL._ In UNIX-speak it mea
 _However, the iPhone’s keypad lacks a ‘~’ character!_
 
 Rather then enter a relatively short URL, I had to use some searching on Google to get me there. Not exactly the user experience I think Apple would strive for.
+

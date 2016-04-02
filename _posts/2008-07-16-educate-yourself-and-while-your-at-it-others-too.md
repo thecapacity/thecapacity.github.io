@@ -33,3 +33,4 @@ Arguing over the word “killing” can result in semantic discussions of “int
 So whether malicious or not, in business and society, **implications are that we can not rely on the exact same set of traits over time.**
 
 There are still some whether; ethics & integrity, curiosity & problem solving, which are “oldies but goodies” and are foundational, but **in today’s age, you must commit to learn and practice your skills new and old with the help of other individuals, for none can do it all alone.**
+

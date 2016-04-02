@@ -33,3 +33,4 @@ All you need to do is create a spreadsheet and open it in your browser. Copy the
 I simply run this from a cron script every few minutes (once I get more data I’ll reduce the time) and although there’s not a lot of variation in the data (I deliberately introduced some to make the graph more interesting) it’s a spectacular way to record, visualization and act on the sensor’s findings!
 
 Good luck with your own modifications and let me know if I can help!
+

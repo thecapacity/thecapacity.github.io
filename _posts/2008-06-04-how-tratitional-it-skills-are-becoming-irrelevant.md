@@ -25,3 +25,4 @@ There’s a tangible shift in computing that I don’t think has been felt in mo
 However, consider Amazon (or Google) and remember they don’t just provide this stuff for fun. It’s what they themselves use internally for their “day jobs” and that [it’s because of these same services](http://www.techcrunch.com/2008/06/01/bezos-talks-web-services/) and not in spite of them, that they’ve reached their current heights.
 
 Time will only tell if they can hold these lofty positions, but my belief is that the future’s in the clouds.
+

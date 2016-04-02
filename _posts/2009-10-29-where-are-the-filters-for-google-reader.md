@@ -13,3 +13,4 @@ categories:
 If I can create filters for GMail, to push notes to certain folders or automatically star things, then **why can’t I create similar rules for my RSS feeds?**
 
 **RSS has quickly become at least as important to me as email, so I think it deserves at least as many tools.**
+

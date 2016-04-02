@@ -37,3 +37,4 @@ Even when my wife changed her last name our local bank was able to accept checks
 **After more then a few decades of being myself it’s not the first time I’ve had to tell a company they will be losing my business, though this is the first time my name has been the reason.**
 
 <span style="text-decoration: underline;">However, this is one of the first time’s I’ve meant such a statement with such sadness.</span>
+

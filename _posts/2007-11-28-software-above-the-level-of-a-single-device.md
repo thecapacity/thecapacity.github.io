@@ -33,3 +33,4 @@ Here’s the content of my reply to Tim;
 > The true answer is that consumers don’t want to use a PC to manage “this” and that” they want all their things to manage each other!
 
 Do you think it’s possible? Or is that just my personal utopia?
+

@@ -133,3 +133,4 @@ I know the team has not focused on tuning couchDB, and I’ve read lots of anecd
 As a final curiosity **I’d love it if couchDB supported queries from STDIN**!! Think about the piping fun you could have you could insert couchDB as part of your bash pipe! I also wouldn’t have to worry about adding another network server to my hosted service!
 
 **Did I mess up here? Can someone try this and tell me if they get similar results?**
+

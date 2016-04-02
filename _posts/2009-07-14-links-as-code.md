@@ -19,3 +19,4 @@ I’m sure everyone has experienced the frustration of reading a document with a
 Should documents not be kept in repositories as well? Why not take the same proactive approach to maintaining links as we do “[Not breaking the Build](http://www.jspwiki.org/wiki/DontBreakTheBuild)” when programming?
 
 **So why doesn’t your team have a utility to scan internal documents and links when they propose changing page structures, before they’re made live?**
+

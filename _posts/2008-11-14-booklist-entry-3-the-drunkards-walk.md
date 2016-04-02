@@ -28,3 +28,4 @@ His point is that this shows that managers don’t always have any influence wha
 In short I think Leonard falls prey to something he often guards against if you use statistics to generalize (as he did here) then you miss out that often results can go “counter” to the trend for the individual, i.e. instead of “breaking even” you could see a 100% improvement in you rcompoany (probably at the expense of another which ends up @ -100%).
 
 However, given that I’m not a mathematician I’m sure I’m falling prey to the influences that we all suffer from, understanding how randomness predominates our existence. Clearly I could use some more reading on this subject but this book is a great start in that direction!
+

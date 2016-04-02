@@ -32,3 +32,4 @@ Obviously I recovered, at least I hope I’m not hallucinating, and despite this
 So it’s not just in business that we can fear and Naomi has other good examples. It’s probably also rare to have “one fear at a time”. There’s likely a list of things you dislike doing or are afraid you’ll mess up. However, go embrace them! **For people who are passionate about success for themselves the biggest mistake is in not trying!**
 
 If you don’t have any fears go find some, or let me know and you can solve some of mine!
+

@@ -22,3 +22,4 @@ I know most of you don’t post comments here anyway so it likely doesn’t matt
 Personally I’d love it if WP just allowed pingbacks and no comments except via twitter. I mean that every post page should have a list of the times it was twittered and / or posted.
 
 I just don’t think every WP should have to maintain it’s own user authentication system, and judging by the constant “new user registrations” which look like spammers to me, I’d be happy not to.
+

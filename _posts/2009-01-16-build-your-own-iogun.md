@@ -33,3 +33,4 @@ Once you’ve got the accelerometer data into python (and then into JSON) it’s
 Of course what makes it really easy for me was the ioBridge module. I just plugged in a servo there and defined a widget on their page and ‘viola I had a webservice I could send commands to!
 
 I hope that helps give some of you (or at least one of you) a boost, and if I can help out at all please let me know!
+

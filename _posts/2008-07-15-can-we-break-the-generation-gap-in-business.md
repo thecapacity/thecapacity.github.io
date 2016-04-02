@@ -52,3 +52,4 @@ In this episode, or the accompanying [Business Week article](http://www.business
 **We’ve heard of [developing future leaders](http://traffic.libsyn.com/hbsp/HBR_IdeaCast_Episode_93-Where_Find_Tomorrows_Leaders.m4a), from Professor Linda A. Hill, but Tammy makes us aware that the roles being “prepared” may not align with the ones being desired by those leaders.**
 
 She writes about it in [Top 10 Talent-Management Challenges](http://discussionleader.hbsp.com/erickson/2008/06/todays_top_ten_talent_manageme.html) and I hope there are a lot of people reading and acting on her insights. From the dangers of [“extreme jobs”](http://traffic.libsyn.com/hbsp/HBR_IdeaCast_21.m4a) beginning to normalize our performance expectations and **we’re in danger of forming a corporate environment that Gen-Yers (and some Gen-Xers) simply don’t want to join.**
+

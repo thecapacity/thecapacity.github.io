@@ -11,3 +11,4 @@ categories:
   - visualization
 ---
 Lauren [shares](http://cooney.typepad.com/lauren_cooneys_blog/2008/04/tweetclouds-twu.html "Lauren Cooney") two fun twitter tools, which I don’t want to re-describe here but I thought I’d share since visualizations are so much fun!
+

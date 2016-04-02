@@ -31,3 +31,4 @@ Unfortunately that didn’t work for me (not sure why wget wasn’t correctly re
 It’s actually way easier than it looks to get your header correctly, just copy and paste what you see from Firebug (look at the “Net” field and have it show all communications, what you want is the 1st line sent).
 
 I figured this out [with some help](http://www.linuxquestions.org/questions/linux-software-2/using-the-cookies-sqlite-from-firefox-3-in-wget-653227/) but mostly by my lonesome given the differences for Chrome.
+

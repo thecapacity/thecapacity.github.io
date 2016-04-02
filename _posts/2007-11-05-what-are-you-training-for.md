@@ -28,3 +28,4 @@ We all have strengths and affinities but as Adam says, “specialization” (in 
 Maybe one of those behaviors comes more readily then the other and maybe you don’t aspire to run your own business, but you must still represent this personal growth in your career.
 
 So what are you training for in your career? Currently in my life I can design, implement and manage IT Infrastructure. **Just like with GPP I don’t know what I’ll need those skills for but if I need them at least I know I won’t throw out my back.**
+

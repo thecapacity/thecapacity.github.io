@@ -52,3 +52,4 @@ What I found interesting was my instinctual desire to let regexps do the work, w
 However, although I’m clearly biased, I must admit I found mine easier to grok and should be more flexible, e.g. perhaps the input pattern could become a parameter rather then hard-coded into the flow.
 
 There’s certainly not a “right” way to do it, other then one that works. The advantage of the MapReduce model is that the necessary code is often really really short and easy to modify but I thought others might find it interesting to realize that perl doesn’t have an exclusive license on ‘[TMTOWTDI](http://catb.org/~esr/jargon/html/T/TMTOWTDI.html)‘
+
