@@ -4,6 +4,9 @@ description: "Learn by Doing"
 author: wjhuie
 repository: thecapacity/thecapacity.github.io
 url: "http://thecapacity.org"
+timezone: America/New_York
+encoding: UTF-8
+branch: master
 
 # Social metadata (JSON-LD)
 social:
@@ -15,10 +18,6 @@ social:
 
 twitter:
     username: "@wjhuie"
-
-timezone: America/New_York
-encoding: UTF-8
-branch: master
 
 kramdown:
   input: GFM
