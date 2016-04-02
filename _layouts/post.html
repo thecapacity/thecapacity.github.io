@@ -27,9 +27,9 @@
     <div class="inner clearfix">
     <section id="main-content">
     <a href="{{ url_base }}{{ page.url }}"><h2>{{ page.title }}</h2></a> 
+        <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" title="edit">edit</a>
         <h3>Posted: {{ page.date | date: '%B %d, %Y'}}</h3>
 
-        <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" title="edit">edit</a>
 
         {{ content }}
     </section>
